@@ -1,0 +1,11 @@
+# Ignore sensitive and ephemeral files
+.openclaw/
+memory/
+MEMORY.md
+USER.md
+IDENTITY.md
+SOUL.md
+BOOTSTRAP.md
+*.log
+*.env
+.env*
